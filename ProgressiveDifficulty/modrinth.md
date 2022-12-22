@@ -66,7 +66,8 @@ With this ore, you can make Enderium Ingots which are used to upgrade Netherite 
 \- [qsefthuopq](https://github.com/qsefthuopq), [1mtwtfss1](https://github.com/1mtwtfss1) for the Chinese translation \
 \- [kiryonn](https://www.curseforge.com/members/kiryonn) for the French translation \
 \- Wallaby#8683 for the Spanish translation \
-\- [baooduy](https://github.com/baooduy) for the Vietnamese translation
+\- [baooduy](https://github.com/baooduy) for the Vietnamese translation \
+\- [IcyCrystal](https://www.planetminecraft.com/member/lcycrystal/) for retexturing all Enderium items and blocks
 
 [![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)
 
