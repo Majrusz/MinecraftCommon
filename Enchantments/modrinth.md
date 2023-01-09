@@ -25,6 +25,10 @@ Cancels nearby explosions when the player blocks with a shield.
 Adds items directly to the inventory if possible, when mining blocks and killing mobs.
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Enchantments/telekinesis.gif?raw=true)
 
+### Sixth Sense
+Eavesdrops on the footsteps of mobs and highlights them for a few seconds.
+![](https://github.com/Majrusz/MinecraftCommon/blob/main/Enchantments/sixth_sense.gif?raw=true)
+
 ### Frost Rider
 Creates frosted ice blocks when a horse is walking over water.
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Enchantments/frost_rider.gif?raw=true)
