@@ -39,7 +39,7 @@ Otherwise, they work only when held in the second hand.
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Accessories/thanks.png?raw=true)
 
-\- everyone who downloaded this mod <3
+\- [@HaooooZhang](https://github.com/HaooooZhang) for the Chinese translation
 
 [![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)
 
