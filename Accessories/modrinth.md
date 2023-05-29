@@ -39,7 +39,8 @@ Otherwise, they work only when held in the second hand.
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Accessories/thanks.png?raw=true)
 
-\- [HaooooZhang](https://github.com/HaooooZhang) for the Chinese translation
+\- [HaooooZhang](https://github.com/HaooooZhang) for the Chinese translation \
+\- [spliitbtw](https://github.com/spliitbtw) for the Spanish translation
 
 [![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)
 

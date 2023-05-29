@@ -4,7 +4,7 @@
 
 This <b>forge</b> modification progressively increases the game difficulty over time. It is inspired by the similar \
 mechanics in [Terraria](https://www.terraria.org), but the difficulty also scales with [Regional Difficulty](https://minecraft.fandom.com/wiki/Difficulty) to keep Minecraft style. \
-A detailed description of this mod can be found on the [Wiki](https://github.com/Majrusz/MajruszsProgressiveDifficultyMod/wiki). \
+A detailed description of this mod can be found on the [Wiki](https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki). \
 <b>Since version 0.4.0 this mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/game_stages.png?raw=true)
@@ -65,7 +65,7 @@ With this ore, you can make Enderium Ingots which are used to upgrade Netherite 
 \- [muraokun](https://www.curseforge.com/members/muraokun/projects) for some of the sprites \
 \- [qsefthuopq](https://github.com/qsefthuopq), [1mtwtfss1](https://github.com/1mtwtfss1) for the Chinese translation \
 \- [kiryonn](https://www.curseforge.com/members/kiryonn) for the French translation \
-\- Wallaby#8683, [luskaner](https://github.com/luskaner) for the Spanish translation \
+\- Wallaby#8683, [luskaner](https://github.com/luskaner), [spliitbtw](https://github.com/spliitbtw) for the Spanish translation \
 \- [baooduy](https://github.com/baooduy) for the Vietnamese translation \
 \- [IcyCrystal](https://www.planetminecraft.com/member/lcycrystal/) for retexturing all Enderium items and blocks \
 \- [unroman](https://github.com/unroman) for the Ukrainian translation
