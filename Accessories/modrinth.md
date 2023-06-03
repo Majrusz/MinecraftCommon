@@ -3,7 +3,7 @@
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Accessories/logo.png?raw=true)
 
 This <b>forge</b> modification adds new special accessories to make certain aspects of the game more enjoyable. \
-A detailed description of all accessories can be found on the [Wiki](https://github.com/Majrusz/MajruszsAccessories/wiki). \
+A detailed description of all accessories can be found on the [Wiki](https://majruszs-accessories.fandom.com/wiki/Majrusz%27s_Accessories_Wiki). \
 <b>This mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Accessories/stuff.png?raw=true)
