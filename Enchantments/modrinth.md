@@ -41,13 +41,14 @@ Creates frosted ice blocks when a horse is walking over water.
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Enchantments/thanks.png?raw=true)
 
-\- [chechnyacool488](https://www.curseforge.com/members/chechnyacool488), [nikita28466](https://www.curseforge.com/minecraft/mc-mods/wonderful-enchantments) for the Russian translation \
+\- [chechnyacool488](https://www.curseforge.com/members/chechnyacool488), [nikita28466](https://www.curseforge.com/members/nikita28466), [lottuce-yami](https://github.com/lottuce-yami) for the Russian translation \
 \- [0골덕0](https://www.curseforge.com/members/kw2341) for the Korean translation \
 \- [giovyxz_00](https://www.curseforge.com/members/giovyxz_00) for the Italian translation \
 \- [Pancakes0228](https://github.com/Pancakes0228), [Andows96](https://github.com/Andows96) for the Chinese translation \
 \- [crafting-Aaron](https://github.com/crafting-Aaron) for the Spanish translation \
 \- [Coliop](https://www.curseforge.com/member/coliop/) for the French translation \
-\- [Kaira#8571](https://www.curseforge.com/members/omerkayra01210) for the Turkish translation
+\- [Kaira#8571](https://www.curseforge.com/members/omerkayra01210) for the Turkish translation \
+\- [unroman](https://github.com/unroman) for the Ukrainian translation
 
 [![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)
 
