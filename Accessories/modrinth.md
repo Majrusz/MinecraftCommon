@@ -45,4 +45,6 @@ Otherwise, they work only when held in the second hand.
 
 [![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)
 
+[![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/mod_wiki.png?raw=true)](https://majruszs-accessories.fandom.com/wiki/Majrusz%27s_Accessories_Wiki)
+
 </center>

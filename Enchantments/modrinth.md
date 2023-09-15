@@ -4,7 +4,7 @@
 
 This <b>forge</b> modification adds new unique enchantments to the game. \
 I have tried to add enchantments that fit Minecraft and ensure that they were as \
-balanced as possible. A detailed description of all enchantments can be found on the [Wiki](https://github.com/Majrusz/MajruszsEnchantmentsMod/wiki). \
+balanced as possible. A detailed description of all enchantments can be found on the [Wiki](https://majruszs-enchantments.fandom.com/wiki/Majrusz%27s_Enchantments_Wiki). \
 <b>Since version 1.0.0 this mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Enchantments/changes.png?raw=true)
@@ -51,5 +51,7 @@ Creates frosted ice blocks when a horse is walking over water.
 \- [unroman](https://github.com/unroman) for the Ukrainian translation
 
 [![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)
+
+[![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/mod_wiki.png?raw=true)](https://majruszs-enchantments.fandom.com/wiki/Majrusz%27s_Enchantments_Wiki)
 
 </center>

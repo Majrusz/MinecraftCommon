@@ -74,4 +74,6 @@ With this ore, you can make Enderium Ingots which are used to upgrade Netherite 
 
 [![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)
 
+[![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/mod_wiki.png?raw=true)](https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki)
+
 </center>
