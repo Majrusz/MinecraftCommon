@@ -1,0 +1,17 @@
+[
+  {
+    "type": "MAJOR",
+    "properties_url": "https://raw.githubusercontent.com/Majrusz/MajruszLibrary/1.20.X-6.0.0/gradle.properties",
+    "changelog_url": "https://raw.githubusercontent.com/Majrusz/MajruszLibrary/1.20.X-6.0.0/changelog.md",
+    "downloads": [
+      {
+        "name": "Modrinth",
+        "url": "https://modrinth.com/mod/majrusz-library/versions"
+      },
+      {
+        "name": "CurseForge",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/majrusz-library/files"
+      }
+    ]
+  }
+]
