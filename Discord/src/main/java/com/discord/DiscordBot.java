@@ -32,6 +32,9 @@ public class DiscordBot {
 
 			Type type = Type.of( mod.get( "type" ).getAsString() );
 			String description = "Minecraft %s".formatted( properties.getProperty( "minecraft_version" ) );
+			if( mod.has( "platforms" ) ) {
+				description += " for %s".formatted( mod.get( "platforms" ).getAsString() );
+			}
 			description += "\n\n";
 			description += "Download links:\n";
 			for( JsonElement downloadElement : mod.getAsJsonArray( "downloads" ) ) {
@@ -39,6 +42,10 @@ public class DiscordBot {
 				description += "[%s](%s)\n".formatted( download.get( "name" ).getAsString(), download.get( "url" ).getAsString() );
 			}
 			description += "\n";
+			if( mod.has( "wiki_url" ) ) {
+				description += "Remember to check out the [wiki](%s)!".formatted( mod.get( "wiki_url" ).getAsString() );
+				description += "\n\n";
+			}
 			if( mod.has( "changelog_url" ) ) {
 				description += "Changelog:";
 				description += "\n";
