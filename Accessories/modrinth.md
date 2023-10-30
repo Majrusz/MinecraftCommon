@@ -2,7 +2,7 @@
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Accessories/logo.png?raw=true)
 
-This <b>forge</b> modification adds new special accessories to make certain aspects of the game more enjoyable. \
+This modification adds new special accessories to make certain aspects of the game more enjoyable. \
 A detailed description of all accessories can be found on the [Wiki](https://majruszs-accessories.fandom.com/wiki/Majrusz%27s_Accessories_Wiki). \
 <b>This mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>
 
@@ -27,9 +27,10 @@ Some of the bonuses are even stronger in the new accessory!
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Accessories/crafting2.png?raw=true)
 
 ### How to activate the accessory?
-If you have <b>Curios API</b> installed then accessories work when placed in a new <b>Pocket</b> slot. \
+If you have [Curios](https://modrinth.com/mod/curios) or [Trinkets](https://modrinth.com/mod/trinkets) installed, accessories work when placed in a new <b>Pocket</b> slot. \
 Otherwise, they work only when held in the second hand.
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Accessories/pocket_slot.png?raw=true)
+![](https://github.com/Majrusz/MinecraftCommon/blob/main/Accessories/pocket_slot2.png?raw=true)
 
 ### And much more!
 
