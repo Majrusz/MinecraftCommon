@@ -7,6 +7,8 @@ I have tried to add enchantments that fit Minecraft and ensure that they were as
 balanced as possible. A detailed description of all enchantments can be found on the [Wiki](https://majruszs-enchantments.fandom.com/wiki/Majrusz%27s_Enchantments_Wiki). \
 <b>Since version 1.0.0 this mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>
 
+<h3>The latest version of this mod is not compatible with Majrusz Library 6.0.0+ yet. New version is on the way, but at the moment make sure to downgrade your library to use this mod!</h3>
+
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Enchantments/changes.png?raw=true)
 
 \- <b>17+</b> new enchantments and <b>5+</b> new curses \

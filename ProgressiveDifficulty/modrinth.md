@@ -7,6 +7,8 @@ mechanics in [Terraria](https://www.terraria.org), but the difficulty also scale
 A detailed description of this mod can be found on the [Wiki](https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki). \
 <b>Since version 0.4.0 this mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>
 
+<h3>The latest version of this mod is not compatible with Majrusz Library 6.0.0+ yet. New version is on the way, but at the moment make sure to downgrade your library to use this mod!</h3>
+
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/game_stages.png?raw=true)
 
 Progress in the game is divided into stages, with each stage providing new difficulty tweaks and \
