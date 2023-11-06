@@ -1,6 +1,6 @@
 [
   {
-    "type": "MAJOR",
+    "type": "MINOR",
     "platforms": "Forge, NeoForge, Fabric, and Quilt",
     "properties_url": "https://raw.githubusercontent.com/Majrusz/MajruszLibrary/1.20.X/gradle.properties",
     "changelog_url": "https://raw.githubusercontent.com/Majrusz/MajruszLibrary/1.20.X/changelog.md",
@@ -17,6 +17,23 @@
   },
   {
     "type": "MINOR",
+    "platforms": "Forge, NeoForge, Fabric, and Quilt",
+    "wiki_url": "https://majruszs-enchantments.fandom.com/wiki/Majrusz%27s_Enchantments_Wiki",
+    "properties_url": "https://raw.githubusercontent.com/Majrusz/MajruszsEnchantmentsMod/1.20.X/gradle.properties",
+    "changelog_url": "https://raw.githubusercontent.com/Majrusz/MajruszsEnchantmentsMod/1.20.X/changelog.md",
+    "downloads": [
+      {
+        "name": "Modrinth",
+        "url": "https://modrinth.com/mod/majruszs-enchantments/versions"
+      },
+      {
+        "name": "CurseForge",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/wonderful-enchantments/files"
+      }
+    ]
+  },
+  {
+    "type": "PATCH",
     "platforms": "Forge, NeoForge, Fabric, and Quilt",
     "wiki_url": "https://majruszs-accessories.fandom.com/wiki/Majrusz%27s_Accessories_Wiki",
     "properties_url": "https://raw.githubusercontent.com/Majrusz/MajruszsAccessories/1.20.X/gradle.properties",
