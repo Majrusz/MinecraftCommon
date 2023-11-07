@@ -2,17 +2,17 @@
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Enchantments/logo.png?raw=true)
 
-This <b>forge</b> modification adds new unique enchantments to the game. \
+This modification adds new unique enchantments to the game. \
 I have tried to add enchantments that fit Minecraft and ensure that they were as \
 balanced as possible. A detailed description of all enchantments can be found on the [Wiki](https://majruszs-enchantments.fandom.com/wiki/Majrusz%27s_Enchantments_Wiki). \
 <b>Since version 1.0.0 this mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Enchantments/changes.png?raw=true)
 
-\- <b>17+</b> new enchantments and <b>5+</b> new curses \
+\- <b>19+</b> new enchantments and <b>5+</b> new curses \
 \- all enchantments are highly configurable in the configuration file \
 \- shields and horse armors are now enchantable \
-\- supports <b>Enchantment Descriptions</b> \
+\- supports [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) \
 \- supports <b>JEI Enchantment Info</b>
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/Enchantments/stuff.png?raw=true)
@@ -45,7 +45,7 @@ Creates frosted ice blocks when a horse is walking over water.
 \- [0골덕0](https://www.curseforge.com/members/kw2341) for the Korean translation \
 \- [giovyxz_00](https://www.curseforge.com/members/giovyxz_00) for the Italian translation \
 \- [Pancakes0228](https://github.com/Pancakes0228), [Andows96](https://github.com/Andows96) for the Chinese translation \
-\- [crafting-Aaron](https://github.com/crafting-Aaron) for the Spanish translation \
+\- [crafting-Aaron](https://github.com/crafting-Aaron), [critvanilla](https://github.com/critvanilla) for the Spanish translation \
 \- [Coliop](https://www.curseforge.com/member/coliop/) for the French translation \
 \- [Kaira#8571](https://www.curseforge.com/members/omerkayra01210) for the Turkish translation \
 \- [unroman](https://github.com/unroman) for the Ukrainian translation
