@@ -1,6 +1,23 @@
 [
   {
-    "type": "MINOR",
+    "type": "MAJOR",
+    "platforms": "Forge, NeoForge, Fabric, and Quilt",
+    "wiki_url": "https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki",
+    "properties_url": "https://raw.githubusercontent.com/Majrusz/MajruszsProgressiveDifficultyMod/1.20.X/gradle.properties",
+    "changelog_url": "https://raw.githubusercontent.com/Majrusz/MajruszsProgressiveDifficultyMod/1.20.X/changelog.md",
+    "downloads": [
+      {
+        "name": "Modrinth",
+        "url": "https://modrinth.com/mod/majruszs-progressive-difficulty/versions"
+      },
+      {
+        "name": "CurseForge",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty/files"
+      }
+    ]
+  },
+  {
+    "type": "MAJOR",
     "platforms": "Forge, NeoForge, Fabric, and Quilt",
     "properties_url": "https://raw.githubusercontent.com/Majrusz/MajruszLibrary/1.20.X/gradle.properties",
     "changelog_url": "https://raw.githubusercontent.com/Majrusz/MajruszLibrary/1.20.X/changelog.md",
@@ -16,7 +33,7 @@
     ]
   },
   {
-    "type": "MINOR",
+    "type": "PATCH",
     "platforms": "Forge, NeoForge, Fabric, and Quilt",
     "wiki_url": "https://majruszs-enchantments.fandom.com/wiki/Majrusz%27s_Enchantments_Wiki",
     "properties_url": "https://raw.githubusercontent.com/Majrusz/MajruszsEnchantmentsMod/1.20.X/gradle.properties",
