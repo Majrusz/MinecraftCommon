@@ -7,8 +7,6 @@ mechanics in [Terraria](https://www.terraria.org), but the difficulty also scale
 A detailed description of this mod can be found on the [Wiki](https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki). \
 <b>Since version 0.4.0 this mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>
 
-<h3>The latest version of this mod is not compatible with Majrusz Library 6.0.0+ yet. New version is on the way, but at the moment make sure to downgrade your library to use this mod!</h3>
-
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/game_stages.png?raw=true)
 
 Progress in the game is divided into stages, with each stage providing new difficulty tweaks and \
@@ -62,10 +60,9 @@ With this ore, you can make Enderium Ingots which are used to upgrade Netherite 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/thanks.png?raw=true)
 
 \- [Julia](https://www.instagram.com/musiqeorn/) for sounds \
-\- [chechnyacool488](https://www.curseforge.com/members/chechnyacool488) for the Russian translation and idea for Undead Army \
-\- [Boscawinks](https://www.planetminecraft.com/project/phantom-mob-statue/) for flying phantom structure \
+\- [chechnyacool488](https://www.curseforge.com/members/chechnyacool488), reyzex#1973 for the Russian translation \
 \- [muraokun](https://www.curseforge.com/members/muraokun/projects) for some of the sprites \
-\- [qsefthuopq](https://github.com/qsefthuopq), [1mtwtfss1](https://github.com/1mtwtfss1) for the Chinese translation \
+\- [qsefthuopq](https://github.com/qsefthuopq), [1mtwtfss1](https://github.com/1mtwtfss1), [UDTakerBean](https://github.com/UDTakerBean) for the Chinese translation \
 \- [kiryonn](https://www.curseforge.com/members/kiryonn), [maximemadani](https://github.com/maximemadani) for the French translation \
 \- Wallaby#8683, [luskaner](https://github.com/luskaner), [spliitbtw](https://github.com/spliitbtw) for the Spanish translation \
 \- [baooduy](https://github.com/baooduy) for the Vietnamese translation \
