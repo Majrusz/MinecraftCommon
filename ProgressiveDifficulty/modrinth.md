@@ -60,7 +60,7 @@ With this ore, you can make Enderium Ingots which are used to upgrade Netherite 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/thanks.png?raw=true)
 
 \- [Julia](https://www.instagram.com/musiqeorn/) for sounds \
-\- [chechnyacool488](https://www.curseforge.com/members/chechnyacool488), reyzex#1973 for the Russian translation \
+\- [chechnyacool488](https://www.curseforge.com/members/chechnyacool488), reyzex#1973, LolsShow, Faster Than Light team for the Russian translation \
 \- [muraokun](https://www.curseforge.com/members/muraokun/projects) for some of the sprites \
 \- [qsefthuopq](https://github.com/qsefthuopq), [1mtwtfss1](https://github.com/1mtwtfss1), [UDTakerBean](https://github.com/UDTakerBean) for the Chinese translation \
 \- [kiryonn](https://www.curseforge.com/members/kiryonn), [maximemadani](https://github.com/maximemadani) for the French translation \
