@@ -5,6 +5,7 @@ import com.google.gson.*;
 import javax.net.ssl.HttpsURLConnection;
 import java.io.*;
 import java.net.URL;
+import java.nio.charset.StandardCharsets;
 import java.util.Properties;
 
 public class DiscordBot {
@@ -51,7 +52,7 @@ public class DiscordBot {
 				description += "\n";
 				try( InputStream stream = new URL( mod.get( "changelog_url" ).getAsString() ).openStream() ) {
 					String line;
-					BufferedReader reader = new BufferedReader( new InputStreamReader( stream ) );
+					BufferedReader reader = new BufferedReader( new InputStreamReader( stream, StandardCharsets.UTF_8 ) );
 					while( ( line = reader.readLine() ) != null ) {
 						description += line + "\n";
 					}
@@ -77,7 +78,7 @@ public class DiscordBot {
 			connection.setDoOutput( true );
 			connection.setRequestMethod( "POST" );
 			OutputStream stream = connection.getOutputStream();
-			stream.write( new Gson().toJson( message ).getBytes() );
+			stream.write( new Gson().toJson( message ).getBytes( StandardCharsets.UTF_8 ) );
 			stream.flush();
 			stream.close();
 			connection.getInputStream().close();
