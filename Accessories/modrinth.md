@@ -42,7 +42,8 @@ Otherwise, they work only when held in the second hand.
 
 \- [HaooooZhang](https://github.com/HaooooZhang) for the Chinese translation \
 \- [spliitbtw](https://github.com/spliitbtw) for the Spanish translation \
-\- [unroman](https://github.com/unroman) for the Ukrainian translation
+\- [unroman](https://github.com/unroman) for the Ukrainian translation \
+\- もふざとう (mohuzato) for the Japanese translation
 
 [![](https://github.com/Majrusz/MinecraftCommon/blob/main/Library/discord.png?raw=true)](https://discord.gg/9UF774WcuW)
 
