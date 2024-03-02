@@ -2,7 +2,7 @@
 
 ![](https://github.com/Majrusz/MinecraftCommon/blob/main/ProgressiveDifficulty/logo.png?raw=true)
 
-This <b>forge</b> modification progressively increases the game difficulty over time. It is inspired by the similar \
+This modification progressively increases the game difficulty over time. It is inspired by the similar \
 mechanics in [Terraria](https://www.terraria.org), but the difficulty also scales with [Regional Difficulty](https://minecraft.fandom.com/wiki/Difficulty) to keep Minecraft style. \
 A detailed description of this mod can be found on the [Wiki](https://majruszs-progressive-difficulty.fandom.com/wiki/Majrusz%27s_Progressive_Difficulty_Wiki). \
 <b>Since version 0.4.0 this mod requires a [Majrusz Library](https://modrinth.com/mod/majrusz-library) to work!</b>
