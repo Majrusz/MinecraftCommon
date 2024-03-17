@@ -91,7 +91,8 @@ public class DiscordBot {
 	private enum Type {
 		MAJOR( "MAJOR", "16734296" ),
 		MINOR( "MINOR", "5832536" ),
-		PATCH( "PATCH", "5814783" );
+		PATCH( "PATCH", "5814783" ),
+		PORT( "PORT", "11111891" );
 
 		private final String name;
 		private final String color;
